@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/dfa_minim.dir/main.cpp.o CMakeFiles/dfa_minim.dir/task.cpp.o -o dfa_minim   -L/home/andrei/6sem/formal_languages/3/dfa_minim  -L/home/andrei/6sem/formal_languages/3  -Wl,-rpath,/home/andrei/6sem/formal_languages/3/dfa_minim:/home/andrei/6sem/formal_languages/3: -lRegexCheckerCore_Linux 

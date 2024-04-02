@@ -1,0 +1,7 @@
+/home/andrei/6sem/formal_languages/CMakeFiles/re2dfa.dir
+/home/andrei/6sem/formal_languages/CMakeFiles/edit_cache.dir
+/home/andrei/6sem/formal_languages/CMakeFiles/rebuild_cache.dir
+/home/andrei/6sem/formal_languages/CMakeFiles/list_install_components.dir
+/home/andrei/6sem/formal_languages/CMakeFiles/install.dir
+/home/andrei/6sem/formal_languages/CMakeFiles/install/local.dir
+/home/andrei/6sem/formal_languages/CMakeFiles/install/strip.dir
